@@ -11,7 +11,7 @@
     * sample.proto
     
     Usage:
-    newinst sample_channel_pb sampler --- samples=bbfusUS cycles=10
+    newinst sample_channel_pb sampler -- samples=bbfusUS cycles=10
     
     This will create an instance "sampler" with pins and a ring.
     The ring can contain at least 10 cycles of the record_sample.funct
